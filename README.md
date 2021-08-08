@@ -1,8 +1,8 @@
 # Data
 website usando Tailwinds, React, React Router, block Tailwinds, Hero Icons dev.
 
-Previe: [Vista previa](https://github.com/rolando167/ytTailwinds-React-1/blob/master/main.jpg).
-
+Preview
+![alt text](https://github.com/rolando167/ytTailwinds-React-1/blob/master/main.jpg)
 
 # Getting Started with Create React App
 
