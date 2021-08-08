@@ -1,0 +1,34 @@
+------------------
+#App con Tailwindcss
+Inicio: 08/08/2021
+
+------------------ Instalar, seguir toda la guia tal cual
+https://tailwindcss.com/docs/guides/create-react-app
+
+💻
+> npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+
+
+> npm install @craco/craco
+
+------------------
+Once it’s installed, update your scripts in your package.json
+ file to use craco instead of react-scripts for all scripts except eject:
+
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+
+------------------
+Luego de todo OK,
+
+> npm install react-router-dom
+
+
+------------------
+https://heroicons.dev/
+
+------------------
+https://tailblocks.cc/
+https://blocks.wickedtemplates.com/
+------------------
