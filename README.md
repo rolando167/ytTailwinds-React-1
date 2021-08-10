@@ -1,5 +1,6 @@
 # Data
 website usando Tailwinds, React, React Router, block Tailwinds, Hero Icons dev.
+Se usan los useContext, Provider, useReducer, con ejemplos básico y entendibles.
 
 Preview
 ![alt text](https://github.com/rolando167/ytTailwinds-React-1/blob/master/main.jpg)
