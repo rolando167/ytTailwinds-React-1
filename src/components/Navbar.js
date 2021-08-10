@@ -15,6 +15,7 @@ const Navbar = () => {
             <Link className="mr-5 hover:text-gray-900" to="/menu">Menu</Link>
             <Link className="mr-5 hover:text-gray-900" to="/about">About</Link>
             <Link className="mr-5 hover:text-gray-900" to="/content">Content</Link>
+            <Link className="mr-5 hover:text-gray-900" to="/operacion">Operación</Link>
           </nav>
           
         </div>
