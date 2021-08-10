@@ -5,6 +5,7 @@ import OperacionProvider from "../context/OperacionProvider";
 const Operacion = () => {
 	return ( 
 		<div>
+			{/* El componente Provider Encapsula a otros componentes */}
 			<OperacionProvider>
 				<Formulario />
 				<Resultado />

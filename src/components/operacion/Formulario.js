@@ -2,7 +2,8 @@ import { useContext, useState } from "react";
 import { OperacionContext } from "../../context/OperacionContext";
 
 const Formulario = () => {
-
+	
+	//Se extrae los datos y funciones necesarios del Provider
 	const {fecha, numero, resultado, handleChange ,multiplicacion} = useContext(OperacionContext);
 
 	return (

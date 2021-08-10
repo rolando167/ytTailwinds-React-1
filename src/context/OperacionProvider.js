@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { OperacionContext } from "./OperacionContext";
 
+//Este component debe encapsular a otro Componentes que usaran las variables Globales
 const OperacionProvider = ({children}) => {
 
 	const [fecha, setFecha] = useState({variable: new Date()});
@@ -22,6 +23,7 @@ const OperacionProvider = ({children}) => {
 		setResultado(0);
 	}
 
+	//Se agregas los datos y funciones que son usuadas por los componentes
 	const data = {
 		fecha,
 		numero,
