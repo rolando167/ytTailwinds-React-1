@@ -39,5 +39,8 @@ https://mambaui.com/components
 
 https://merakiui.com/
 https://www.tailwind-kit.com/components
+
+-----------Similares
+https://daisyui.com/
 ------------------
 
