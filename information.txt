@@ -1,5 +1,5 @@
 ------------------
-#App con Tailwindcss
+#App con Tailwindcss 🤘
 Inicio: 08/08/2021
 
 --------------------- referencia Video : Make a React Website with Tailwind CSS Tutorial
