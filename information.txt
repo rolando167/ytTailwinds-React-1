@@ -2,6 +2,10 @@
 #App con Tailwindcss
 Inicio: 08/08/2021
 
+--------------------- referencia Video : Make a React Website with Tailwind CSS Tutorial
+https://www.youtube.com/watch?v=gOQ31Kc8H5E
+ 
+
 ------------------ Instalar, seguir toda la guia tal cual
 https://tailwindcss.com/docs/guides/create-react-app
 
