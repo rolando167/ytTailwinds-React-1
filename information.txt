@@ -31,4 +31,9 @@ https://heroicons.dev/
 ------------------
 https://tailblocks.cc/
 https://blocks.wickedtemplates.com/
+https://mambaui.com/components
+
+https://merakiui.com/
+https://www.tailwind-kit.com/components
 ------------------
+
