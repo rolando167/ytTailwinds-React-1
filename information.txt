@@ -41,6 +41,12 @@ https://merakiui.com/
 https://www.tailwind-kit.com/components
 
 -----------Similares
+https://kitwind.io/products/kometa/components/headers
+https://tailwindtemplates.io/forms/
+https://lofiui.co/
 https://daisyui.com/
+
+https://blog.logrocket.com/best-tailwind-css-components-and-template-collections/
+
 ------------------
 
